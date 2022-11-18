@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+header{
+    margin-bottom: 20px;
+}
+#search:hover{
+    background-color: white;
+    color: black;
+}
+.nav li a{
+    color: white;
+    font-size: large;
+}
+.nav{
+    padding-bottom: 20px;
+    padding-top:10px;
+    vertical-align: middle;
+}
+table{
+    margin-top:100px;
+}
+#chart{
+    width: 100%;
+}
+main#graph{
+    margin-top: 100px;
+}
+.box{
+    width: 300px;
+    height: 300px;
+    display: inline-flex;
+    margin: 30px;
+    padding:140px 120px 150px;
+    color: black;
+}
+.one{
+    background-color: rgb(249, 128, 46);
+    color: white;
+}
+.two{
+    background-color: rgb(33, 33, 135);
+    color:white;
+}
+.three{
+    background-color: rgb(32, 143, 32);
+    color: white;
+}
+.box:hover{
+    background-color: black;
+    color: gold;
+    cursor: pointer;
+}
