@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+header{
+    margin-bottom: 20px;
+}
+#search:hover{
+    background-color: white;
+    color: black;
+}
+.nav li a{
+    color: white;
+    font-size: large;
+}
+.nav{
+    padding-bottom: 20px;
+    padding-top:10px;
+    vertical-align: middle;
+}
+table{
+    margin-top:100px;
+}
+main#graph{
+    margin-top: 100px;
+}
