@@ -143,7 +143,7 @@ function plottingTestsLine(data){
     };
     var layout = {
         xaxis: {title: 'Time in hours'},
-        yaxis: {title: 'Cases, deaths and tests'},
+        yaxis: {title: 'Number of Tests'},
         title: "Tests"
     }
     var input = [tests]
