@@ -1,7 +1,7 @@
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'fcb468bc74msh2bb690a5d87a957p1b39a4jsn41a7bcb8ae79',
+		'X-RapidAPI-Key': '',
 		'X-RapidAPI-Host': 'covid-193.p.rapidapi.com'
 	}
 };
